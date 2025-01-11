@@ -33,7 +33,7 @@ body {
     height: 100px;
     display: flex;
     justify-content: space-between;
-    margin: 70px 160px;
+    margin: 70px 130px;
 }
 
 .bangladesh-title {
@@ -52,6 +52,7 @@ body {
     border-radius: 8px;
 
 
+
 }
 
 .bangladesh-2 {
@@ -59,7 +60,7 @@ body {
     display: flex;
     width: 1280px;
     height: 560px;
-    margin: 70px 160px;
+    margin: 70px 130px;
     background-color: rgba(198, 228, 214, 1);
 }
 
@@ -73,17 +74,17 @@ body {
     color: rgba(14, 14, 14, 0.5);
     font-size: 24px;
     font-weight: 622px;
-    
+
 
 }
 
 .New-bangladesh-description {
     width: 570px;
-   
+
     font-size: 44px;
     font-weight: bold;
 
-    
+
 }
 
 .New-bangladesh-btn {
@@ -92,6 +93,7 @@ body {
     border-radius: 8px;
     color: #ffffff;
     background-color: #006a50;
+    border: none;
 
 }
 
@@ -103,7 +105,7 @@ body {
 
 /* pillar style */
 .pillar {
-    margin-left: 160px;
+    margin-left: 130px;
     width: 1280px;
 
 }
@@ -166,7 +168,7 @@ body {
 
 /* future style */
 .future {
-    margin-left: 160px;
+    margin-left: 130px;
     width: 1280px;
 }
 
@@ -224,6 +226,7 @@ body {
     background-color: #5490f5;
     margin-bottom: 32px;
     border-radius: 8px;
+    border: none;
 }
 
 .green-btn {
@@ -233,6 +236,7 @@ body {
     background-color: #09a15c;
     margin-bottom: 32px;
     border-radius: 8px;
+    border: none;
 }
 
 .yellow-btn {
@@ -242,6 +246,7 @@ body {
     background-color: #ffc239;
     margin-bottom: 32px;
     border-radius: 8px;
+    border: none;
 }
 
 /* Dr Younus */
@@ -279,7 +284,7 @@ body {
     padding-bottom: 48px;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     border-radius: 8px;
-    margin-left: 160px;
+    margin-left: 130px;
     background-repeat: no-repeat;
     line-height: 24px;
 }
@@ -301,7 +306,7 @@ body {
 /* Satelite table */
 
 .Recent-News-1 {
-    margin-left: 160px;
+    margin-left: 130px;
     width: 1280px;
     margin-top: 24px;
 
@@ -309,14 +314,14 @@ body {
 }
 
 .Recent-News-2 {
-    margin-left: 160px;
+    margin-left: 130px;
     width: 1280px;
     margin-top: 24px;
 
 }
 
 .Recent-News-3 {
-    margin-left: 160px;
+    margin-left: 130px;
     width: 1280px;
     margin-top: 24px;
 }
@@ -379,6 +384,7 @@ body {
     width: 138px;
     height: 48px;
     margin-bottom: 60px;
+    border: none;
 
 }
 
@@ -391,7 +397,7 @@ body {
 
 .Donate-main {
     width: 1280px;
-    margin-left: 160px;
+    margin-left: 130px;
 
 }
 
@@ -467,6 +473,7 @@ body {
     width: 138px;
     height: 48px;
     margin-left: 532px;
+    border: none;
 
 }
 
@@ -497,21 +504,20 @@ body {
 }
 
 .subscribe-email {
-    width: 600px;
+    width: 700px;
     height: 55px;
     margin-left: 250px;
     border-radius: 8px;
 
 }
 
-.Subscribe-btn {
-    margin-top: 32px;
+.subscribe-btn {
+
     background-color: rgba(0, 106, 80, 1);
-    /* border-radius: 8px; */
-    color: white;
-    width: 138px;
     height: 55px;
-    padding-right: 10px;
+    width: 122px;
+    border: none;
+
 }
 
 .sure {
@@ -526,6 +532,7 @@ body {
     width: 1280px;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
     margin-left: 130px;
+    box box-shadow: none;
 
 }
 
@@ -546,24 +553,4 @@ body {
     text-align: center;
 
 
-}
-
-.opinion {
-
-    width: 1280px;
-    margin-left: 160px;
-
-}
-
-.opinion-title {
-
-    font-size: 40px;
-    font-weight: bold;
-
-}
-
-.Question {
-    background-color: rgba(198, 228, 214, 1);
-    display: flex;
-    justify-content: space-between;
 }
