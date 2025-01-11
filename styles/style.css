@@ -125,6 +125,7 @@ body {
 }
 
 .pillar-1 {
+
     border-radius: 16px;
     width: 410px;
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
@@ -150,6 +151,9 @@ body {
 }
 
 .pillar-image {
+
+    width: 64px;
+    height: 64px;
     padding-top: 32px;
     padding-left: 32px;
 }
@@ -162,11 +166,20 @@ body {
 }
 
 .pillar-tittle {
-    padding-left: 32px;
+
+    text-align: start;
 
 }
 
 /* future style */
+.card-image {
+    width: 64px;
+    height: 64px;
+    padding-top: 32px;
+    padding-left: 32px;
+
+}
+
 .future {
     margin-left: 130px;
     width: 1280px;
@@ -551,6 +564,5 @@ body {
 
 .footer-image {
     text-align: center;
-
 
 }
