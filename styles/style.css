@@ -1,0 +1,265 @@
+/* share style */
+
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.padding {
+  padding: 32px;
+}
+
+.margin {
+  margin-left: 32px;
+}
+
+/* header style */
+.bangladesh {
+  width: 1280px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  margin: 70px 160px;
+}
+
+.bangladesh-title {
+  font-size: 32px;
+  font-weight: bold;
+  color: #0e0e0e;
+  width: 222px;
+  height: 38px;
+}
+
+.bangladesh-btn {
+  width: 116px;
+  height: 52px;
+  color: #006a50;
+  border-radius: 8px;
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 30px;
+}
+
+.bangladesh-2 {
+  border-radius: 24px;
+  display: flex;
+  width: 1280px;
+  height: 560px;
+  margin: 70px 160px;
+  background-color: rgba(198, 228, 214, 1);
+}
+
+.New-bangladesh {
+  padding-left: 60px;
+  padding-top: 117px;
+  padding-bottom: 117px;
+}
+
+.New-bangladesh-sub-tittle {
+  color: rgba(14, 14, 14, 0.5);
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.New-bangladesh-description {
+  width: 570px;
+  height: 201px;
+  font-size: 56px;
+  font-weight: bold;
+}
+
+.New-bangladesh-btn {
+  width: 270px;
+  height: 56px;
+  border-radius: 8px;
+  color: #ffffff;
+  background-color: #006a50;
+  margin-bottom: 100px;
+}
+
+.bangladesh-2-image {
+  width: 474px;
+  height: 400px;
+  padding: 80px 60px;
+}
+
+.pillar {
+  margin-left: 160px;
+  width: 1280px;
+}
+
+.pillar-description {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 17px;
+  height: 48px;
+}
+
+.pillar-cards {
+  display: flex;
+  gap: 24px;
+  height: 300px;
+}
+
+.pillar-1 {
+  border-radius: 16px;
+  width: 410px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.pillar-2 {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 16px;
+  width: 410px;
+}
+
+.pillar-3 {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 16px;
+  width: 410px;
+}
+
+.pillar-image {
+  padding-top: 32px;
+  padding-left: 32px;
+}
+
+.pillar-description {
+  font-size: 16px;
+  padding-left: 32px;
+  color: rgba(14, 14, 14, 0.7);
+  width: 320px;
+  height: 50px;
+}
+
+.pillar-tittle {
+  padding-left: 32px;
+}
+
+/* future style */
+.future {
+  margin-left: 160px;
+  width: 1280px;
+}
+
+.future-description {
+  color: rgba(14, 14, 14, 0.7);
+  font-size: 17px;
+  height: 48px;
+}
+
+.future-cards {
+  display: flex;
+  gap: 24px;
+  height: 300px;
+}
+
+.card-1 {
+  background-color: rgba(84, 144, 245, 0.2);
+  border-radius: 16px;
+  width: 410px;
+}
+
+.card-2 {
+  background-color: rgba(198, 228, 214, 1);
+  border-radius: 16px;
+  width: 410px;
+}
+
+.card-3 {
+  background-color: rgba(247, 235, 207, 1);
+  border-radius: 16px;
+  width: 410px;
+}
+
+.card-image {
+  padding-top: 32px;
+  padding-left: 32px;
+}
+
+.card-description {
+  font-size: 16px;
+  padding-left: 32px;
+  color: rgba(14, 14, 14, 0.7);
+  width: 320px;
+  height: 50px;
+}
+
+.card-tittle {
+  padding-left: 32px;
+}
+
+.purple-btn {
+  height: 41px;
+  width: 122px;
+  color: white;
+  background-color: #5490f5;
+  margin-bottom: 32px;
+  border-radius: 8px;
+}
+
+.green-btn {
+  height: 41px;
+  width: 122px;
+  color: white;
+  background-color: #09a15c;
+  margin-bottom: 32px;
+  border-radius: 8px;
+}
+
+.yellow-btn {
+  height: 41px;
+  width: 122px;
+  color: white;
+  background-color: #ffc239;
+  margin-bottom: 32px;
+  border-radius: 8px;
+}
+
+/* Dr Younus */
+.Yunus-description {
+  font-size: 16px;
+  color: rgba(14, 14, 14, 0.8);
+}
+
+.Yunus-tittle {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.designation {
+  font-size: 16px;
+  color: rgba(14, 14, 14, 0.6);
+}
+
+/* Dr Yunus */
+
+.dr.image {
+  background-position: 100% 45%;
+}
+
+.Dr-Yunus {
+  width: 1232px;
+  height: 256px;
+  margin-top: 32px;
+  background-image: url(../assets/quote-bg.png);
+  background-position: 2% 25%;
+  line-height: 24px;
+  padding-top: 48px;
+  padding-left: 24px;
+  padding-right: 24px;
+  padding-bottom: 48px;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+  margin-left: 160px;
+  background-repeat: no-repeat;
+  line-height: 24px;
+}
+
+.Yunus-description {
+  margin-top: 48px;
+  font-size: 18px;
+}
+
+.Dr-Yunus-sub {
+  margin-top: 12px;
+  line-height: 4px;
+}
