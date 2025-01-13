@@ -168,6 +168,8 @@ body {
 .pillar-tittle {
 
     text-align: start;
+    padding-left: 32px;
+
 
 }
 
@@ -201,6 +203,7 @@ body {
     background-color: rgba(84, 144, 245, 0.2);
     border-radius: 16px;
     width: 410px;
+
 }
 
 .card-2 {
@@ -520,16 +523,22 @@ body {
     width: 700px;
     height: 55px;
     margin-left: 250px;
-    border-radius: 8px;
+    
+
+}
+
+.add-section {
+    display: flex;
 
 }
 
 .subscribe-btn {
 
     background-color: rgba(0, 106, 80, 1);
-    height: 55px;
+    height: 60px;
     width: 122px;
     border: none;
+
 
 }
 
